@@ -145,7 +145,7 @@ setup(
     version=__version__,
     author="infinityofspace",
     url="https://github.com/infinityofspace/jellyfin_alexa_skill",
-    description="Selfhosted Alexa media player skill for Jellyfin",
+    description="Selfhosted Alexa media player skill for Jellyfin Edit",
     long_description=long_description,
     long_description_content_type="text/markdown",
     license="MIT",
