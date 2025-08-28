@@ -36,5 +36,5 @@ jobs:
         with:
           push: true
           tags: |
-            ghcr.io/${{ secrets.GH_USERNAME }}/jellyfin_alexa_skill:dev
+            ghcr.io/yannik-dittmar/jellyfin_alexa_skill:dev
           platforms: linux/amd64,linux/arm/v7,linux/arm64/v8
