@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - dev
+      - main
     paths-ignore:
       - '**/Readme.md'
       - '**/docker-compose.yml'
